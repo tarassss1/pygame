@@ -14,6 +14,7 @@ class Player(): # клас для створення шаблону персон
         self.height = height # висота
 
 
+
 # створення головного вікна
 window = pygame.display.set_mode((500, 500))
 
